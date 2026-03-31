@@ -99,7 +99,5 @@ This dashboard sets itself apart from standard HR dashboards by leveraging advan
 - **Diversity Insights**: Promotes a data-backed approach to fostering diversity and inclusion.
 - **Customization**: Fully customizable to align with specific organizational goals and metrics.
 
-## Acknowledgments
 
-This dashboard is inspired by the tutorial "HR Analytics Dashboard with Power BI" available on [YouTube](https://www.youtube.com/watch?v=snzq7Ev6HDI). Special thanks to the creator for providing an excellent foundation for building this tool.
 
